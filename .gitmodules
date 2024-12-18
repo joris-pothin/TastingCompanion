@@ -1,0 +1,6 @@
+[submodule "api"]
+    path = api
+	url = https://github.com/joris-pothin/TastingCompanion-API.git
+[submodule "front"]
+    path = front
+	url = https://github.com/joris-pothin/TastingCompanion-front.git
